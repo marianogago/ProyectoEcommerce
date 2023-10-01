@@ -6,31 +6,36 @@
 <p>-Todos deben actualizar y bajar los cambios realizados y tenerlos en su repositorio local, realizar los commits con la información correspondiente sobre los cambios realizados.
 </p>
 <h2>Uso</h2>
-<p>Accede a la tienda en línea ingrasando en tu navegador a: </p>
-http://127.0.0.1:5500/index.html
+<p>Accede a la tienda en línea ingresando en tu navegador a: </p>
+https://thaliaaris96.github.io/workspace-inicial.github.io/
 <h2>Funcionalidades</h2>
 <ul>
 <li>Explorar catálogo de productos</li>
 <li>Detectar si el cliente esta logeado y redirecionarlo al LogIn</li>
-<li>Guardar regstro</li>
+<li>Guardar registro</li>
+<li>Buscar articulos a tiempo real</li>
+<li>Productos relacionados</li>
+<li>Ordenar de los productos por orden alfábetico de manera ascendente, descendente y por relevancia</li>
+<li>Ver y realizar nuevos comentarios</li>
+<li>Modo oscuro en toda la página</li>
 </ul>
 <h2>Proximas Funcionalidades</h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>Realizar cambios en el perfil usuario</li>
+<li>Agregar objetos al carrito de compra</li>
+<li>Agregar formas de pago</li>
 </ul>
 <h2>Contribuidores</h2>
 <p>Agradecemos enormemente a todas las personas que han contribuido al proyecto, estas son: </p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>https://github.com/catrielmayo</li>
+<li>https://github.com/ignaciodorregolagurara</li>
+<li>https://github.com/thaliaaris96</li>
+<li>https://github.com/pedroserna22</li>
+<li>https://github.com/dreyeragustin</li>
+<li>https://github.com/agustinferr</li>
+<li>https://github.com/cecilialurati</li>
+<li>https://github.com/marianogago</li>
 </ul>
+<h2>Algunas imagenes del proyecto (Próximamente)</h2>
 <h2>Proyecto JAP de 2023</h2>
